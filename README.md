@@ -1,4 +1,4 @@
-#About me
+# About me
 Hi there! I am a Web and Game developer working on various original projects like:
 
 A Whatsapp clone.
