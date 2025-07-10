@@ -4,6 +4,7 @@ Hi there! I am a Web and Game developer working on various original projects lik
 A Whatsapp clone.
 A Reddit clone.
 A Danganronpa clone.
+A Google Maps clone.
 A literal 1 to 1 Connections clone.
 
 # My Qualifications
